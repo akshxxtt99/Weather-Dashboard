@@ -1,4 +1,4 @@
-const apiKey = "YOUR_API_KEY";
+const apiKey = "3d546fe8854ab89d0ff56a6b40782a43";
 
 // Live clock
 function updateTime() {
