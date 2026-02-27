@@ -30,9 +30,7 @@ A modern dark-themed Weather Dashboard built using HTML, CSS, and JavaScript.
 2. Add your OpenWeather API key in script.js
 3. Open index.html
 
-## 📸 Preview
 
-(Add screenshot here)
 
 ---
 
